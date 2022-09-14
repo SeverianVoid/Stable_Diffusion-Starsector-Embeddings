@@ -27,7 +27,7 @@ The filename (without .pt/.bin) will be the term you'll use in the prompt to get
 ![instructions2](https://user-images.githubusercontent.com/5420686/190097213-2fc3f795-5542-4e68-9e8a-69163df9437a.png)
 
 ## Planets
-Quick example showing using the planet embedding as well as img2img prompting
+Quick example showing using the planet embedding as well as img2img prompting. The simple starting image was fed into the img2img section of webui along with a text prompt describing the planet and asking for the style of the planet embedding file.
 
 ![5 min planet](https://user-images.githubusercontent.com/5420686/190098710-29707c1f-193a-4984-9520-40cccaef0639.png)
 
