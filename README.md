@@ -1,6 +1,6 @@
 # Stable Diffusion Starsector Embeddings
 
-A collection of trained textual inversion embedding files for generating various starsector themed art assets using stable diffusion
+A collection of pre-trained textual inversion embedding files for generating various starsector themed art assets using stable diffusion
 
 ![ContactSheet-001](https://user-images.githubusercontent.com/5420686/190090520-638abc45-3aa5-4666-af2f-c72f0e7079cc.png)
 
