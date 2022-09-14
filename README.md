@@ -26,4 +26,19 @@ The filename (without .pt/.bin) will be the term you'll use in the prompt to get
 
 ![instructions2](https://user-images.githubusercontent.com/5420686/190097213-2fc3f795-5542-4e68-9e8a-69163df9437a.png)
 
+## Planets
+Quick example showing using the planet embedding as well as img2img prompting
+
+![5 min planet](https://user-images.githubusercontent.com/5420686/190098710-29707c1f-193a-4984-9520-40cccaef0639.png)
+
+## Ships
+Ship generation is still a bit rough around the edges due to downsampling that occurs in the training process damaging the fine details in training images as seen in this comparison between input training image and the reconstruction of that image during training.
+
+![input_recon](https://user-images.githubusercontent.com/5420686/190098991-38964470-2042-4ec8-8141-49907c2ea912.png)
+
+Example of a single seed value over different prompt modifiers and sampling methods
+
+![Shipsamples](https://user-images.githubusercontent.com/5420686/190100040-893c750a-af1e-44f5-99ab-6a0a2dd18e4d.png)
+
+
 
